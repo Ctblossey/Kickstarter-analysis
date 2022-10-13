@@ -9,7 +9,7 @@
 ### Analysis of Outcomes Based on Launch Date
     - Based on the data we have, we are able to take a deep dive into the outcomes we have based on Launch Date. The analysis is comprised of a distribution of outcome types corresponding to their Launch Date months. 
     ![Theater Outcomes Based on Launch Date](/Users/carterblossey/Desktop/Columbia - Analysis Projects/Module 1/Challenge/Resources/Theater_Outcomes_vs_Launch.png)
-        [](https://github.com/Ctblossey/Kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
+        https://github.com/Ctblossey/Kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png
 
 ### Analysis of Outcomes Based on Goals
 
