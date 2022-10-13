@@ -28,10 +28,10 @@
 
 ## Results
 
-- Two main conclusions in regard to theater outcomes are that canceled outcomes hold little impact on the results and that successes consistently have more outcomes than failures throughout the year overall.
+- ### Two main conclusions in regard to theater outcomes are that canceled outcomes hold little impact on the results and that successes consistently have more outcomes than failures throughout the year overall.
 
-- One conclusion about outcomes based on goals is that the majority of projects have a goal of less than 10,000; where successes outweigh failures overall.
+- ### One conclusion about outcomes based on goals is that the majority of projects have a goal of less than 10,000; where successes outweigh failures overall.
 
-- There are several limitations to this data set. One of which being that the goals and pledges can differ in currency. Without creating a central value, there could be statistical error. Another limitation, yet similar, is the difference between countries. It would be important to look at the differences based on all similarities instead of just the main ones like date, goal, and category.
+- ### There are several limitations to this data set. One of which being that the goals and pledges can differ in currency. Without creating a central value, there could be statistical error. Another limitation, yet similar, is the difference between countries. It would be important to look at the differences based on all similarities instead of just the main ones like date, goal, and category.
 
-- Other visualizations could bring in important context for the data. One of which, like mentioned in the limitations, would be a graph to show the distribution of kickstarters across different countries based on similar criteria, like the goal. Another visualization would be a chart to show the total projects in regard to outcomes based on goals. The largest difference occurs in the 45,000-49,999 range, however, there is only one total project. Finally, an additional table that would help would be a currency conversion table. It is important to show each currency's goals in relation to other currencies.
+- ### Other visualizations could bring in important context for the data. One of which, like mentioned in the limitations, would be a graph to show the distribution of kickstarters across different countries based on similar criteria, like the goal. Another visualization would be a chart to show the total projects in regard to outcomes based on goals. The largest difference occurs in the 45,000-49,999 range, however, there is only one total project. Finally, an additional table that would help would be a currency conversion table. It is important to show each currency's goals in relation to other currencies.
