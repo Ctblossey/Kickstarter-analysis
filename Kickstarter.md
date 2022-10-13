@@ -8,13 +8,19 @@
 
 ### Analysis of Outcomes Based on Launch Date
      
-- ### Based on the data we have, we are able to take a deep dive into the outcomes we have based on Launch Date. The analysis is comprised of a distribution of outcome types corresponding to their Launch Date months. 
+- ### Based on the data we have, we are able to take a deep dive into the outcomes we have based on Launch Date. The analysis is comprised of a distribution of outcome types corresponding to their Launch Date months. In addition to the breakdown of results, our visualizations provide the ability to filter on both parent category and years. Having this ability provides an extra level of detail, as we can compare results across different criteria.
     
 - ![](https://github.com/Ctblossey/Kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
     
 - [Theater Outcomes vs Launch Date](https://github.com/Ctblossey/Kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
+
+- ### One of the main areas of focus for these kickstarters were the goals for each individual one. With the analysis of outcomes based on goals, we were able to breakdown certain subcategories based on different goal ranges. For our analysis, we chose to take a look at plays, where we were able to have many takeaways.
+
+- ![](https://github.com/Ctblossey/Kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
+    
+- [Outcomes vs Goals](https://github.com/Ctblossey/Kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
