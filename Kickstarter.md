@@ -10,7 +10,7 @@
      
 ### Based on the data we have, we are able to take a deep dive into the outcomes we have based on Launch Date. The analysis is comprised of a distribution of outcome types corresponding to their Launch Date months. 
     
-[Theater Outcomes vs Launch Date](/Challenge/Resources/Theater_Outcomes_vs_Launch.png)
+![Theater Outcomes vs Launch Date](/Challenge/Resources/Theater_Outcomes_vs_Launch.png)
     
 [Theater Outcomes vs Launch Date](https://github.com/Ctblossey/Kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 
